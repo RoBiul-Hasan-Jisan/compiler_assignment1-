@@ -5,7 +5,7 @@ pythonto_go/
 
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
+compiler_poject/__pycache__/
 *.py[cod]
 *$py.class
 
