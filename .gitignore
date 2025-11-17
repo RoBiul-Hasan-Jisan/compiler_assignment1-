@@ -1,0 +1,62 @@
+pythonto_c/
+problem tracker/
+pythonto_go/
+
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+coverage.xml
+
+# Translations
+*.mo
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# C build files (important for CPython-style repos)
+*.o
+*.a
+*.s
+*.S
+*.so
+*.dylib
+*.dll
+*.exe
+*.obj
+*.pdb
